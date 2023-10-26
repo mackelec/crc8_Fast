@@ -6,13 +6,6 @@ This repository contains a fast implementation for CRC8-based corruption checks,
 
 The provided code offers a rapid method to compute the CRC8 checksum of a byte array. Using optimized lookup tables, this method is especially useful for checking data integrity in storage mediums like EEPROM or during data transfers in serial communications.
 
-## Table of Contents
-
-1. [Usage](#usage)
-2. [Dependencies](#dependencies)
-3. [Contribute](#contribute)
-4. [License](#license)
-
 ## Usage
 
 Below is the code for the Fast CRC8x EEPROM Checker:
